@@ -26,9 +26,9 @@ My main strengths are logical thinking and multitasking skills.
 * Technologies [Markdown].
 
 ## Education
-* **Latvijas University** | ["Экономист"]
+* **Latvijas University** | ["Economist"]
 * **Course "[JavaScript/Front-end]"** | [RSschool] | [2026]
 
-## Английский язык
+## English
 * **Level:** B2 — Upper Intermediate
 * **Practice:** Studied in English cources in Latvijas University .
